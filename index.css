@@ -1,0 +1,21 @@
+html {
+    background-color: white;
+}
+
+body {
+    margin: 10px;
+    background-color: slategray;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 250px;
+    text-align: center;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
