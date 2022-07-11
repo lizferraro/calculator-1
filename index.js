@@ -32,5 +32,3 @@ function divide() {
     let result = num1 / num2
     sumEl.textContent = "Sum: " + result
 }
-
-// Return to this challenge later and add number buttons (or an input option for user to type numbers) so user can enter their own math problems
